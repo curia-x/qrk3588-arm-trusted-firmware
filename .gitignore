@@ -60,3 +60,6 @@ venv/
 # Nix flake output
 /result
 /result-*
+
+# Local compilation database
+/compile_commands.json
